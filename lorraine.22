@@ -1,0 +1,15 @@
+<!DOCTYPEhtml>
+< html lang = "pt" > 
+  < cabeça >
+    < script src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js" </ script > 
+    < script src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js" </ script > 
+    < link rel = "folha de estilo" type = "text/css" href = "style.css" >   
+    < meta c harset = "utf-8" />  
+
+  </ cabeça >
+  < corpo >
+    <principal> _ _
+    </ principal >
+    < script src = "sketch.js" </ script > 
+  </ corpo >
+</html> _ _
